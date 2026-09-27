@@ -20,7 +20,7 @@
 ### Vidéos
 
 * [Comment devenir Orateur·rice ? - Crafts Records](https://www.youtube.com/watch?v=sirHZcpSkqs&list=PLIYXcdwc2smEpocX1DzbqeyIBqvvCKg4S&index=2)
-  * playlist autour de l'écosystème des conférences tech, le CFP, l'idéation...
+  * playlist autour de l'écosystème des conférences tech, l'idéation, le CFP...
 * [Craft ton CFP en live avec l'équipe du KCD Provence 2026](https://www.youtube.com/watch?v=CLu2VQBLx-M)
 * [La technique ultime pour réussir vos CFP - WeLoveDevs](https://www.youtube.com/watch?v=zsPLfzO8LqM)
 
